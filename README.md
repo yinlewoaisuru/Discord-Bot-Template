@@ -9,11 +9,11 @@
 
 **🌐 Select Language**
 
-[![VI](https://img.shields.io/badge/🇻🇳_Tiếng_Việt-FB7185?style=for-the-badge&labelColor=1a0a10)](https://github.com/ragenguyen/Discord-Bot-Template#-tiếng-việt)&nbsp;
-[![EN](https://img.shields.io/badge/🇺🇸_English-F9A8D4?style=for-the-badge&labelColor=1a0a10)](https://github.com/ragenguyen/Discord-Bot-Template#-english)&nbsp;
-[![JA](https://img.shields.io/badge/🇯🇵_日本語-FBCFE8?style=for-the-badge&labelColor=1a0a10)](https://github.com/ragenguyen/Discord-Bot-Template#-日本語)&nbsp;
-[![ZH](https://img.shields.io/badge/🇨🇳_中文-FCE7F3?style=for-the-badge&labelColor=1a0a10)](https://github.com/ragenguyen/Discord-Bot-Template#-中文)&nbsp;
-[![KR](https://img.shields.io/badge/🇰🇷_한국어-FDF2F8?style=for-the-badge&labelColor=1a0a10)](https://github.com/ragenguyen/Discord-Bot-Template#-한국어)
+[![VI](https://img.shields.io/badge/🇻🇳_Tiếng_Việt-FB7185?style=for-the-badge&labelColor=1a0a10)](https://github.com/yinlewoaisuru/Discord-Bot-Template#-tiếng-việt)&nbsp;
+[![EN](https://img.shields.io/badge/🇺🇸_English-F9A8D4?style=for-the-badge&labelColor=1a0a10)](https://github.com/yinlewoaisuru/Discord-Bot-Template#-english)&nbsp;
+[![JA](https://img.shields.io/badge/🇯🇵_日本語-FBCFE8?style=for-the-badge&labelColor=1a0a10)](https://github.com/yinlewoaisuru/Discord-Bot-Template#-日本語)&nbsp;
+[![ZH](https://img.shields.io/badge/🇨🇳_中文-FCE7F3?style=for-the-badge&labelColor=1a0a10)](https://github.com/yinlewoaisuru/Discord-Bot-Template#-中文)&nbsp;
+[![KR](https://img.shields.io/badge/🇰🇷_한국어-FDF2F8?style=for-the-badge&labelColor=1a0a10)](https://github.com/yinlewoaisuru/Discord-Bot-Template#-한국어)
 
 <br/>
 
@@ -22,17 +22,17 @@
   <a href="https://discord.gg/86WwkS9Er4">
     <img src="https://img.shields.io/discord/SERVER_ID?color=FB7185&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/>
   </a>
-  <a href="https://github.com/ragenguyen/Discord-Bot-Template/stargazers">
-    <img src="https://img.shields.io/github/stars/ragenguyen/Discord-Bot-Template?color=FB7185&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  <a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/stargazers">
+    <img src="https://img.shields.io/github/stars/yinlewoaisuru/Discord-Bot-Template?color=FB7185&style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
   </a>
-  <a href="https://github.com/ragenguyen/Discord-Bot-Template/network/members">
-    <img src="https://img.shields.io/github/forks/ragenguyen/Discord-Bot-Template?color=F9A8D4&style=for-the-badge&logo=github&logoColor=white" alt="Forks"/>
+  <a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/network/members">
+    <img src="https://img.shields.io/github/forks/yinlewoaisuru/Discord-Bot-Template?color=F9A8D4&style=for-the-badge&logo=github&logoColor=white" alt="Forks"/>
   </a>
-  <a href="https://github.com/ragenguyen/Discord-Bot-Template/issues">
-    <img src="https://img.shields.io/github/issues/ragenguyen/Discord-Bot-Template?color=FBCFE8&style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/issues">
+    <img src="https://img.shields.io/github/issues/yinlewoaisuru/Discord-Bot-Template?color=FBCFE8&style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
   </a>
-  <a href="https://github.com/ragenguyen/Discord-Bot-Template/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ragenguyen/Discord-Bot-Template?color=FCE7F3&style=for-the-badge" alt="License"/>
+  <a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/yinlewoaisuru/Discord-Bot-Template?color=FCE7F3&style=for-the-badge" alt="License"/>
   </a>
 </p>
 
@@ -54,9 +54,9 @@
 <br/><br/>
 
 <!-- GITHUB STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=ragenguyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=120a10&title_color=FB7185&icon_color=F9A8D4&text_color=FBCFE8&ring_color=FB7185&include_all_commits=true&count_private=true" height="158" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yinlewoaisuru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=120a10&title_color=FB7185&icon_color=F9A8D4&text_color=FBCFE8&ring_color=FB7185&include_all_commits=true&count_private=true" height="158" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragenguyen&theme=tokyonight&hide_border=true&background=120a10&ring=FB7185&fire=F9A8D4&currStreakLabel=FB7185&sideLabels=FBCFE8&sideNums=F9A8D4&dates=6b7280" height="158" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yinlewoaisuru&theme=tokyonight&hide_border=true&background=120a10&ring=FB7185&fire=F9A8D4&currStreakLabel=FB7185&sideLabels=FBCFE8&sideNums=F9A8D4&dates=6b7280" height="158" alt="Streak"/>
 
 <br/>
 </div>
@@ -263,7 +263,7 @@ Mọi embed trong **Novela** đều dùng **một nguồn màu duy nhất** từ
 
 **Bước 1** — Clone repo về máy:
 ```bash
-git clone https://github.com/ragenguyen/Discord-Bot-Template.git
+git clone https://github.com/yinlewoaisuru/Discord-Bot-Template.git
 cd Discord-Bot-Template
 ```
 
@@ -421,7 +421,7 @@ Discord-Bot-Template/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ragenguyen/Discord-Bot-Template.git
+git clone https://github.com/yinlewoaisuru/Discord-Bot-Template.git
 cd Discord-Bot-Template
 
 # 2. Install all dependencies
@@ -528,7 +528,7 @@ new EmbedBuilder().setColor('#FF0000');
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/ragenguyen/Discord-Bot-Template.git
+git clone https://github.com/yinlewoaisuru/Discord-Bot-Template.git
 cd Discord-Bot-Template
 
 # 依存関係をインストール
@@ -597,7 +597,7 @@ npm run dev  # 開発環境（ファイル変更で自動再起動）
 
 ```bash
 # 克隆仓库
-git clone https://github.com/ragenguyen/Discord-Bot-Template.git
+git clone https://github.com/yinlewoaisuru/Discord-Bot-Template.git
 cd Discord-Bot-Template
 
 # 安装依赖
@@ -666,7 +666,7 @@ npm run dev  # 开发环境（修改文件自动重启）
 
 ```bash
 # 저장소 클론
-git clone https://github.com/ragenguyen/Discord-Bot-Template.git
+git clone https://github.com/yinlewoaisuru/Discord-Bot-Template.git
 cd Discord-Bot-Template
 
 # 의존성 설치
@@ -727,34 +727,34 @@ npm run dev  # 개발 모드 (파일 변경 시 자동 재시작)
 
 All contributions are welcome!
 
-[![Contributors](https://contrib.rocks/image?repo=ragenguyen/Discord-Bot-Template)](https://github.com/ragenguyen/Discord-Bot-Template/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=yinlewoaisuru/Discord-Bot-Template)](https://github.com/yinlewoaisuru/Discord-Bot-Template/graphs/contributors)
 
 <br/>
 
 <a href="https://discord.gg/86WwkS9Er4">
   <img src="https://img.shields.io/badge/💬_Join_Support_Server-FB7185?style=for-the-badge&logo=discord&logoColor=white" alt="Support"/>
 </a>&nbsp;
-<a href="https://github.com/ragenguyen/Discord-Bot-Template/issues/new?template=bug_report.md">
+<a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/issues/new?template=bug_report.md">
   <img src="https://img.shields.io/badge/🐛_Report_a_Bug-F9A8D4?style=for-the-badge&logo=github&logoColor=white" alt="Bug"/>
 </a>&nbsp;
-<a href="https://github.com/ragenguyen/Discord-Bot-Template/issues/new?template=feature_request.md">
+<a href="https://github.com/yinlewoaisuru/Discord-Bot-Template/issues/new?template=feature_request.md">
   <img src="https://img.shields.io/badge/✨_Request_Feature-FBCFE8?style=for-the-badge&logo=github&logoColor=white" alt="Feature"/>
 </a>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragenguyen&bg_color=120a10&color=FB7185&line=F9A8D4&point=FBCFE8&area=true&area_color=FB718520&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yinlewoaisuru&bg_color=120a10&color=FB7185&line=F9A8D4&point=FBCFE8&area=true&area_color=FB718520&hide_border=true" width="95%" alt="Activity Graph"/>
 
 <br/>
 
 <!-- BOTTOM WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>Made with 💖 by <a href="https://github.com/ragenguyen">ragenguyen</a> &nbsp;·&nbsp; Powered by <a href="https://discord.js.org">discord.js v14</a></sub>
+<sub>Made with 💖 by <a href="https://github.com/yinlewoaisuru">yinlewoaisuru</a> &nbsp;·&nbsp; Powered by <a href="https://discord.js.org">discord.js v14</a></sub>
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ragenguyen.Discord-Bot-Template&left_color=1a0a10&right_color=FB7185&left_text=Visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yinlewoaisuru.Discord-Bot-Template&left_color=1a0a10&right_color=FB7185&left_text=Visitors)
 
 </div>
